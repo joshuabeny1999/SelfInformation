@@ -1,4 +1,4 @@
-name: sample-dockerfile
+name: self-information
 services:
   - name: web
     git:
